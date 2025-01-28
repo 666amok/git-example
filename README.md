@@ -1,2 +1,2 @@
 # git-example
-Example of functionality with Git
+Example of functionality with Git.
